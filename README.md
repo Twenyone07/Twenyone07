@@ -12,10 +12,11 @@ I love building projects that make life easier and exploring the latest in tech.
 - 🌱 Always learning new technologies and improving my coding skills  
 - 💻 Passionate about **software development, algorithms, and problem solving**  
 - 🎯 Goal: To become a **full-stack software engineer with cloud expertise**  
-- ⚽ Huge fan of **Cristiano Ronaldo** – inspiration on and off the field  
+- ⚽ Huge fan of **Real Madrid** – inspiration on and off the field  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg" alt="Cristiano Ronaldo" width="250" style="border-radius:12px;">
+ <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/324f89fe-b409-4252-b0d0-b4ce8ced2bea" />
+
 </div>
 
 ---
