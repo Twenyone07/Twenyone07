@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Sumit Shrestha
 
-![Banner](https://img.shields.io/badge/Welcome-to-My-Profile-blue?style=for-the-badge&logo=github)
 
 I'm a **Professional Coder & Tech Enthusiast** specializing in **Java, Python, and Full Stack Development**.  
 I love building projects that make life easier and exploring the latest in tech.  
